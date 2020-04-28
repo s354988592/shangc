@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'yticon';
+    src: url('fonts/yticon.eot');
+    src: url('fonts/yticon.eot') format('embedded-opentype'),
+         url('fonts/yticon.woff2') format('woff2'),
+         url('fonts/yticon.woff') format('woff'),
+         url('fonts/yticon.ttf') format('truetype'),
+         url('fonts/yticon.svg#yticon') format('svg');
+}
