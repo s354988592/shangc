@@ -1,3 +1,3 @@
 ## Welcome to lelele
 
- ## https://github.com/s354988592/shangc/
+ ## https://s354988592.github.io/shangc/index
